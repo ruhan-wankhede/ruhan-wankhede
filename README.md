@@ -55,7 +55,7 @@ Convert your live webcam video into ASCII art. Fun and visually interesting CLI 
 ## 🤝 Let's Connect
 
 - 📫 Email: wankhederuhan@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruhanwankhede)
+- 💼 [LinkedIn](linkedin.com/in/ruhan-wankhede-5b0ab8373/)
 - 🌐 [Portfolio (coming soon)](https://github.com/ruhan-wankhede)
 
 ---
